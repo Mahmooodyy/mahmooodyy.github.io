@@ -1,0 +1,12 @@
+body {
+  background-color: #2121;
+  font-family: Arial, sans-serif;
+  margin: 10% 10%
+}
+.name{
+  text-align: center;
+}
+.headers{
+  border-top: 1px solid #444444;
+  border-bottom: 1px solid #444444;
+}
