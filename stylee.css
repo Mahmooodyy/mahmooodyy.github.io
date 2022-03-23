@@ -18,3 +18,19 @@ img {
   left: 1200px;
   filter: drop-shadow(15px 5px 2px #4444);
 }
+
+.header{
+  animation: slide-up 3s
+}
+
+@keyframes slide-up{
+  from{
+    opacity: 0.2;
+    line-height:200px
+  }
+  
+  to{
+    opacity: 1;
+    line-height:25px
+  }
+}
