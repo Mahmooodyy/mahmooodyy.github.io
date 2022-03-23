@@ -6,7 +6,15 @@ body {
 .name{
   text-align: center;
 }
-.headers{
+.header{
   border-top: 1px solid #444444;
   border-bottom: 1px solid #444444;
+}
+
+img {
+  display: block;
+  width: 150px;
+  position: absolute;
+  left: 1200px;
+  filter: drop-shadow(15px 5px 2px #4444);
 }
