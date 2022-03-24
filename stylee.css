@@ -20,7 +20,7 @@ img {
 }
 
 .header{
-  animation: slide-up 3s
+  animation: slide-up 4s
 }
 
 @keyframes slide-up{
